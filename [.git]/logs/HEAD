@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 09775456d666b34cdf28d509ec4072367665bc53 Erik <Erik@mysirius> 1377142064 -0400	commit: test commit to GIT
+09775456d666b34cdf28d509ec4072367665bc53 94ec03b96227577b62eb3e4ed51513820057004d Erik <Erik@mysirius> 1377142586 -0400	commit: minor change on comments
+94ec03b96227577b62eb3e4ed51513820057004d e326fa0f39105e52be3fb3bce81b6d44413d3859 erikwang <wangyu.kami@gmail.com> 1377223892 -0400	commit: Diablo weapon generator test program
+e326fa0f39105e52be3fb3bce81b6d44413d3859 e2b6c388538ea205c30bf3cb1a222feabeb8b834 erikwang <wangyu.kami@gmail.com> 1377230235 -0400	commit: Test commit
+e2b6c388538ea205c30bf3cb1a222feabeb8b834 e6de3eb01abfbf3e6027a1b1f980ad66fbeca9b2 erikwang <wangyu.kami@gmail.com> 1377272285 -0400	commit (amend): Test commit 2
+e6de3eb01abfbf3e6027a1b1f980ad66fbeca9b2 a6b276d025103ba83c74483e10a4e0cb84334a58 erikwang <wangyu.kami@gmail.com> 1377272306 -0400	commit (amend): Test commit 2
+a6b276d025103ba83c74483e10a4e0cb84334a58 eb39803265ab44178c57b12b4ddfe6ab6b97d6a8 erikwang <wangyu.kami@gmail.com> 1377273987 -0400	commit (amend): Test commit 2
+eb39803265ab44178c57b12b4ddfe6ab6b97d6a8 0356946aa02c153d1594f3d9036b69c3268b50f5 erikwang <wangyu.kami@gmail.com> 1377280486 -0400	commit (amend): Test commit 3
+0356946aa02c153d1594f3d9036b69c3268b50f5 bd832950b8867fc128c0973e0191ba178cfa1ffd erikwang <wangyu.kami@gmail.com> 1377280793 -0400	merge branch 'master' of https://github.com/erikwang/DiabloIII.git: Merge made by resolve.
+bd832950b8867fc128c0973e0191ba178cfa1ffd a740be8d957ab528b13775f503fd6e854e42eb4d erikwang <wangyu.kami@gmail.com> 1377296300 -0400	commit: [Aug-23] 14:17 - Add affix ruler comment -Add weapon serial number at each output
+a740be8d957ab528b13775f503fd6e854e42eb4d 38d846d3dc16fdfc217d0b48cd99c9a00cf2a8fd erikwang <wangyu.kami@gmail.com> 1377298037 -0400	commit: [Aug-23] 14:17 - Add affix ruler comment -Add weapon serial number at each output
