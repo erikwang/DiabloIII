@@ -1,5 +1,8 @@
 package simulator.diablo.com;
 
+import Heros.*;
+import java.util.*;
+        
 public class simulator {
 
 	
@@ -39,6 +42,13 @@ public class simulator {
 			wg.getWeapon();	
 			System.out.println();
 		} 
+                
+                
+                // Generate a new hero
+                Hero thehero = new Hero();
+                //java.text.SimpleDateFormat d=new java.text.SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+                System.out.print(Calendar.getInstance().getTime()+" - A new hero object was created.");
+                
 		
 	}
 	enum theweapon{
